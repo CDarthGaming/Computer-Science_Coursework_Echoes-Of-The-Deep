@@ -1,0 +1,5 @@
+High Score: 1251
+Previous Score: 1251
+Unsuccessful Runs: 4
+Successful Runs: 0
+Difficulty: 1

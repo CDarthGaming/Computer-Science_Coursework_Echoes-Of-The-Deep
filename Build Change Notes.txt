@@ -1,0 +1,45 @@
+==============
+RELEASE VERSION: 0.1.3
+==============
+- Increased enemy hitpoints scalar
+- Reduced number of enemy increase scalar
+- 25% chance of no enemies to spawn in a room for any level
+- Reduced grid increase scalar
+- Added room size increase scalar
+- Reduced player initial health
+- Reduced time to start game, start new level, end game, and enter main menu.
+- Decreased amount of max health gained per level
+- Enemies can now walk diagonally
+- Enemies will now pathfind horizontally/ vertically if the player is diagonal to them (No more cheesing enemies around loot or diagonals)
+- Reduced enemy action timer difficulty scalar
+- Added a difficulty scalar to loot spawning
+- Slightly increased number of health spawns per level scalar
+- Health can no longer spawn until level 3
+- Reduced enemy power scalar
+
+==============
+BUILD VER: 0.1.2
+==============
+- Fixed crash errors
+
+==============
+BUILD VER: 0.1.1
+==============
+- Increased player speed
+- Decreased player health and player health scalar
+- Decreased initial amount of rooms
+- Decreased amount of new rooms per level
+- Increased enemy action timer
+- Decreased chance of health potion spawning
+- Decreased amount of health potions scalar
+- The player can now move diagonally
+- Enemies can now pathfind vertically around objects
+- Removed difficulty scalar
+- Increased Egg score gains
+- Reduced difficulty scalar on player move timer
+- Total runs stat now tracks properly
+
+==============
+BUILD VER: 0.1.0
+==============
+- Released the test build :D
