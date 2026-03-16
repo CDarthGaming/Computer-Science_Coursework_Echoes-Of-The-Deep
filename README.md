@@ -1,3 +1,11 @@
+# Coursework for Blackburn College
+- A-Level Computer Science
+- 2nd Year
+- Open Source Game
+- The game can be downloaded & played on Game Jolt via the app
+    - The soundtracks can also be found there.
+    - https://gamejolt.com/games/echoesofthedeep/885468 
+
 # HOW TO PLAY
 - Run Echoes of The Deep.exe to play
 - W, A, S, D to move and attack
