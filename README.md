@@ -17,3 +17,5 @@
 
 # BUILD VERSION
 - 0.1.3
+
+For the most up-to-date version (Full Release 1.0.1), use the Game Jolt.
