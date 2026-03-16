@@ -3,8 +3,8 @@
 - 2nd Year
 - Open Source Game
 - The game can be downloaded & played on Game Jolt via the app
-    - The soundtracks can also be found there.
-    - https://gamejolt.com/games/echoesofthedeep/885468 
+    - Game Link : https://gamejolt.com/games/echoesofthedeep/885468
+    - Spotify Link : https://open.spotify.com/album/4tJ7yE5L5LZDewOuGibeGA?si=knPgyTIlSkWtMeO64QGDLA
 
 # HOW TO PLAY
 - Run Echoes of The Deep.exe to play
